@@ -147,6 +147,7 @@ class Freemember_model extends CI_Model
             'username',
             'email',
             'screen_name',
+            'join_date',
             'url',
             'location',
             'occupation',
